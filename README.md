@@ -44,8 +44,6 @@ Network architechture
 
 ![Image: YOLO ARCH ](https://github.com/VictorYezhov/AI_car_driving_assistant/blob/master/img/YOLO_ARCHITECHTURE.png)
 
-We used Fast YOLO with fewer convolutional layers (9 instead of 24) and fewer filters in those layers. Other than the size of the network, all training and testing parameters are the same between YOLO and Fast YOLO.
-
 
 Results:
 ![Image: YOLO ARCH ](https://github.com/VictorYezhov/AI_car_driving_assistant/blob/master/result_img/first.png)
