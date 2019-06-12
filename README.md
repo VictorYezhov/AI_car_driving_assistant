@@ -1,5 +1,7 @@
 # AI_car_driving_assistant
 Course work for AI course at UCU. Car driving assistant
+
+
 First approach: classical computer vision with OpenCV.
 
 For line detection, we used OpenCV’s HoughLines line detector. As an input, it received original image that was processed by Canny edge detector. 
