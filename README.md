@@ -57,3 +57,5 @@ Results:
 ![Image: YOLO ARCH ](https://github.com/VictorYezhov/AI_car_driving_assistant/blob/master/result_img/5.png)
 
 In a repository you could find full video
+
+In conclusion, we want to summarise that for our goals, OpenCV is to slow and with bad accuracy because the video is not static. In the same time, YOLO is the more right choice for us, but there is a problem that not all cars are in the resulting windows of interest. So, closer regions have more probability to be detected than more farther ones and that is why sometimes we show the only cars which are closer to the camera.
